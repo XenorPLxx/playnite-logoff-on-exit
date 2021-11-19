@@ -1,0 +1,6 @@
+﻿Id: LogoffOnExit_18868bdd-52fd-4c1d-a553-9ca2dec3f416
+Name: LogoffOnExit
+Author: Xenor
+Version: 1.0
+Module: LogoffOnExit.psm1
+Type: Script
